@@ -1,12 +1,12 @@
 {
-  "name": "@flashbots/ethers-provider-bundle",
+  "name": "@Lanskih90/ethers-provider-bundle",
   "version": "0.6.1",
-  "description": "",
+  "description": "Mod - @flashbots/ethers-provider-bundle",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flashbots/ethers-provider-flashbots-bundle.git"
+    "url": "https://github.com/Lanskih90/ethers-provider-flashbots-bundle.git"
   },
   "scripts": {
     "demo": "npx ts-node --project tsconfig.json src/demo.ts",
@@ -34,6 +34,5 @@
   "peerDependencies": {
     "ethers": "5.7.2"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
